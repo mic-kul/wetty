@@ -1,11 +1,14 @@
 {
-  "name": "wetty.js",
+  "name": "@mickul/wetty.js",
   "version": "1.1.4",
   "description": "WeTTY = Web + TTY. Terminal access in browser over http/https",
   "homepage": "https://github.com/krishnasrinivas/wetty",
   "repository": {
     "type": "git",
     "url": "git://github.com/krishnasrinivas/wetty.git"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "author": "Krishna Srinivas <krishna.srinivas@gmail.com> (https://github.com/krishnasrinivas)",
   "license": "MIT",
